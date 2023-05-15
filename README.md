@@ -1,2 +1,2 @@
 # ABAB
-Adaptive stratified sampling Bagging  And Boosting
+Adaptive Bagging  And Boosting
