@@ -1,2 +1,2 @@
-# HybridLeafForest（ABAB）
+# HybridNodeForest（ABAB）
 Adaptive Bagging  And Boosting
